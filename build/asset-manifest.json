@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/static/css/main.83648ea1.chunk.css",
-    "main.js": "/static/js/main.79067d4e.chunk.js",
-    "main.js.map": "/static/js/main.79067d4e.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.98a2b520.js",
-    "runtime-main.js.map": "/static/js/runtime-main.98a2b520.js.map",
-    "static/js/2.75267946.chunk.js": "/static/js/2.75267946.chunk.js",
-    "static/js/2.75267946.chunk.js.map": "/static/js/2.75267946.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.2641a484d3c3e56cfec38e61b14b482d.js": "/precache-manifest.2641a484d3c3e56cfec38e61b14b482d.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.83648ea1.chunk.css.map": "/static/css/main.83648ea1.chunk.css.map",
-    "static/js/2.75267946.chunk.js.LICENSE.txt": "/static/js/2.75267946.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/static/media/showcase.4b31330b.jpg",
-    "static/media/spinner.gif": "/static/media/spinner.14960114.gif"
+    "main.css": "/Dev_connector_ui/static/css/main.f2d299bf.chunk.css",
+    "main.js": "/Dev_connector_ui/static/js/main.e3cac863.chunk.js",
+    "main.js.map": "/Dev_connector_ui/static/js/main.e3cac863.chunk.js.map",
+    "runtime-main.js": "/Dev_connector_ui/static/js/runtime-main.f9df6212.js",
+    "runtime-main.js.map": "/Dev_connector_ui/static/js/runtime-main.f9df6212.js.map",
+    "static/js/2.75267946.chunk.js": "/Dev_connector_ui/static/js/2.75267946.chunk.js",
+    "static/js/2.75267946.chunk.js.map": "/Dev_connector_ui/static/js/2.75267946.chunk.js.map",
+    "index.html": "/Dev_connector_ui/index.html",
+    "precache-manifest.5df898b069b24ece8aaee27ce79788dd.js": "/Dev_connector_ui/precache-manifest.5df898b069b24ece8aaee27ce79788dd.js",
+    "service-worker.js": "/Dev_connector_ui/service-worker.js",
+    "static/css/main.f2d299bf.chunk.css.map": "/Dev_connector_ui/static/css/main.f2d299bf.chunk.css.map",
+    "static/js/2.75267946.chunk.js.LICENSE.txt": "/Dev_connector_ui/static/js/2.75267946.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/Dev_connector_ui/static/media/showcase.4b31330b.jpg",
+    "static/media/spinner.gif": "/Dev_connector_ui/static/media/spinner.14960114.gif"
   },
   "entrypoints": [
-    "static/js/runtime-main.98a2b520.js",
+    "static/js/runtime-main.f9df6212.js",
     "static/js/2.75267946.chunk.js",
-    "static/css/main.83648ea1.chunk.css",
-    "static/js/main.79067d4e.chunk.js"
+    "static/css/main.f2d299bf.chunk.css",
+    "static/js/main.e3cac863.chunk.js"
   ]
 }
